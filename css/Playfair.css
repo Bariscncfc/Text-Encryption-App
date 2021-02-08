@@ -1,0 +1,13 @@
+body {
+    font-family: "Helvetica-Neue", Ultra;
+    font-size: 16px;
+    background: url(../img/markus-spiske-70Rir5vB96U-unsplash.jpg);
+    background-size: cover;
+  }
+  #wrapper {
+    border-radius: 5px;
+    padding: 1.2rem
+  }
+  .otstup {
+    margin-bottom: 20px;
+  }

@@ -1,0 +1,49 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    background: url(../img/markus-spiske-70Rir5vB96U-unsplash.jpg);
+    background-size: cover;
+    
+}
+
+div {
+    padding: 5px;
+    width: 300px;
+    margin-top: 60px;
+    color: white;
+    font-size: 1.5rem;
+   
+}
+
+#input_area{
+    width: 100%;
+    height: 150px;
+    margin-left: auto;
+    border: 2px solid black;
+   
+}
+#btn {
+ width: 100%;
+ background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  margin-top: 10px;
+  
+}
+
+.page-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+    
+}
